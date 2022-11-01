@@ -1,1 +1,1 @@
-# Simple calculator console application written in C++.
+# Simple calculator
